@@ -1,7 +1,0 @@
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\bin\Release\70-483_playground.exe.config
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\bin\Release\70-483_playground.exe
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\bin\Release\70-483_playground.pdb
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\obj\Release\70-483_playground.csprojAssemblyReference.cache
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\obj\Release\70-483_playground.csproj.CoreCompileInputs.cache
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\obj\Release\70-483_playground.exe
-C:\Users\dcnoe\source\repos\70-483_playground\70-483_playground\obj\Release\70-483_playground.pdb
