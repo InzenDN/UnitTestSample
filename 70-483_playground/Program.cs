@@ -53,9 +53,6 @@ namespace Playground
         {
             var sort = new SortAlgorithm();
             var bacon = new string[] { "I", "A", "H", "C", "F", "E", "D", "G", "B" };
-
-            sort.SelectionSort(bacon);
-            Debug.Assert(sort.IsSorted(bacon) == true);
         }
     }
 }
